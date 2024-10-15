@@ -60,6 +60,14 @@ killall -q waybar
 waybar &; disown
 ```
 
+# Screenshots
+
+![image](https://github.com/user-attachments/assets/442cbb4f-74ad-4fc5-983e-7e7b0527cc52)
+![image](https://github.com/user-attachments/assets/fdbfd9b7-d019-4d95-b799-fa9d9c3ed82f)
+![image](https://github.com/user-attachments/assets/e035c758-882f-478a-9caf-d01ed42fc3c1)
+
+
+
 # To-Do List
 
 -   [x] Basic timer functionality
